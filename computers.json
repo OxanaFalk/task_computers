@@ -1,0 +1,39 @@
+{
+    "computers": [
+        {
+            "name": "station-1",
+            "features":  {
+                "operating_system": "windows",
+                "type": "stationary"
+            }
+        },
+        {
+            "name": "station-2",
+            "features":  {
+                "operating_system": "windows",
+                "type": "laptop"
+            }
+        },
+        {
+            "name": "station-3",
+            "features":  {
+                "operating_system": "linux",
+                "type": "stationary"
+            }
+        },
+        {
+            "name": "station-4",
+            "features":  {
+                "operating_system": "windows",
+                "type": "laptop"
+            }
+        },
+        {
+            "name": "station-5",
+            "features":  {
+                "operating_system": "linux",
+                "type": "laptop"
+            }
+        }
+    ]
+}
